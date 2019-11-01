@@ -1,6 +1,6 @@
 ## Welcome to Choose A Meal Happily
 
-![Image](1024.png)
+![Image](1024.jpg)
 
 Eat when you are hungry, and don't have to lie when you love. Enjoy food and love yourself.
 
